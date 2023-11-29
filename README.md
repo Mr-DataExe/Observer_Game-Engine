@@ -5,8 +5,8 @@
 
 ## Overview
 
-Your Game Engine Name is a 3D game engine developed in C++. The engine is designed for [brief description of your game engine's purpose and features].
-
+Observer is a 3D game engine developed in C++. The engine is designed as a light wight game engine, it main propuse is for me to learn about 3D Software
+Form game engines to 3D editors, and the Mathematics behind's it all.
 ## Features
 
 - Rendering 3D objects
@@ -36,6 +36,7 @@ Still in process of Making
 ## Contributing
 
 We welcome contributions! Please follow our [Contribution Guidelines](CONTRIBUTING.md) to contribute to this project.
+Currently We don't have a Contribution Guidelines.
 
 ## License
 
