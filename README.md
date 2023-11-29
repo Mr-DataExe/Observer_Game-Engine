@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://travis-ci.org/Mr-DataExe/Observer_Game-Engine.svg?branch=master)](https://travis-ci.org/Mr-DataExe/Observer_Game-Engine)
+## License
+
+This project is dual-licensed under the [MIT License](LICENSE) and the [Creative Commons Attribution-NonCommercial-NoDerivs License (CC BY-NC-ND)](LICENSE-CC-BY-NC-ND). See the respective license files for details.
 
 ## Overview
 
