@@ -1,7 +1,7 @@
 # Observer Game Engine
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://travis-ci.org/Mr-DataExe/Observer.svg?branch=master)](https://travis-ci.org/Mr-DataExe/Observer)
+[![Build Status](https://travis-ci.org/Mr-DataExe/Observer_Game-Engine.svg?branch=master)](https://travis-ci.org/Mr-DataExe/Observer_Game-Engine)
 
 ## Overview
 
