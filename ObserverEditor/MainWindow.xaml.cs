@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ObserverEditor.GameProject;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,25 @@ namespace ObserverEditor
         public MainWindow()
         {
             InitializeComponent();
+            Loaded += OnMainWindowLoaded;
+        }
+
+        private void OnMainWindowLoaded(object sender, RoutedEventArgs e)
+        {
+            Loaded -= OnMainWindowLoaded;
+            OpenProjects();
+        }
+
+        private void OpenProjects()
+        {
+            var OpenProjectBrowser = new Projects();
+            if(OpenProjectBrowser.ShowDialog() == false)
+            {
+                Application.Current.Shutdown();
+            }else
+            {
+
+            }
         }
     }
 }
